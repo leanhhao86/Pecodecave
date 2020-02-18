@@ -1,4 +1,4 @@
-; TooRaw.asm - MASM test file.
+; stub.asm - MASM test file.
 
 .386
 .model flat,stdcall
