@@ -1,6 +1,5 @@
 #include "everything.h"
 
-// Current goal: create a section and append to an PE exe
 using namespace std;
 
 int main(int argc, char** argv) {

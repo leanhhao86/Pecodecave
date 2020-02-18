@@ -2,7 +2,6 @@
 #include <Windows.h>
 #include <iostream>
 #include <fstream>
-#include "utilities.h"
 #include "PEParse.h"
 
 #define FILEALIGMENT 0x200
